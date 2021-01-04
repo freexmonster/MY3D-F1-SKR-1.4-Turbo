@@ -1,23 +1,35 @@
 ﻿# MY3D-F1-SKR-1.4-Turbo
 MY3D F1 + SKR 1.4 Turbo modification 
 
-# Marlin 3D Printer Firmware
+Display MKS_MINI_12864 (this default MY3D F1 display)
 
-[Thingiverse Author page] (https://www.thingiverse.com/freexmonster/designs).
+Stepper Drivers MC2209
 
-# Marlin 3D Printer Firmware
 
-[![Build Status](https://travis-ci.org/MarlinFirmware/Marlin.svg?branch=2.0.x)](https://travis-ci.org/MarlinFirmware/Marlin)
-![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
-![GitHub contributors](https://img.shields.io/github/contributors/marlinfirmware/marlin.svg)
-![GitHub Release Date](https://img.shields.io/github/release-date/marlinfirmware/marlin.svg)
+I was able to adapt the native MKS 3d printer display for the skr1.4 turbo. I had to study the pinout of the display and motherboard. And also I managed to rewrite the marlin firmware from skr 1.4 turbo and MY3D F1. 
 
-<img align="right" width=175 src="buildroot/share/pixmaps/logo/marlin-250.png" />
+The one thing to look out for the most is the filament feed rate. I have a non-standard feeder. You will have to fix this for yourself Marlin / Configuration.h #define DEFAULT_AXIS_STEPS_PER_UNIT line 721 and #define DEFAULT_MAX_FEEDRATE line 728.
+
+To be continued.....
+
+![Alt MKS port](images_display/MKS_MINI_12864_port.png?raw=true "MKS MINI 12864 port")
+
+![Alt SKR ports](images_display/SKR_ports.png?raw=true "SKR 1.4 Turbo ports")
+
+![Alt Display](images_display/photo01.jpeg?raw=true "Display test")
+
+![Alt Display](images_display/photo02.jpeg?raw=true "Display mount")
+
+
+
+Thingiverse Author page https://www.thingiverse.com/freexmonster/designs.
+
+
+
+## Building Marlin 2.0
 
 Additional documentation can be found at the [Marlin Home Page](http://marlinfw.org/).
 Please let us know if Marlin misbehaves in any way. Volunteers are standing by!
-
-## Building Marlin 2.0
 
 To build Marlin 2.0 you'll need [Arduino IDE 1.8.8 or newer](https://www.arduino.cc/en/main/software) or [PlatformIO](http://docs.platformio.org/en/latest/ide.html#platformio-ide). Detailed build and install instructions are posted at:
 

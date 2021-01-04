@@ -3,7 +3,7 @@ MY3D F1 + SKR 1.4 Turbo modification
 
 # Marlin 3D Printer Firmware
 
-[Thingiverse Author page] (https://www.thingiverse.com/freexmonster/designs).
+Thingiverse Author page https://www.thingiverse.com/freexmonster/designs.
 
 # Marlin 3D Printer Firmware
 

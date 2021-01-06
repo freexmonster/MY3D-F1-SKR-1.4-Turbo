@@ -11,6 +11,9 @@ In 2 days I will make a complete description of the modification.
 
 To be continued.....
 
+![Alt MKS port](images_display/MKS_MINI_12864_port.png?raw=true "MKS MINI 12864 port")
+
+
 
 ![Alt Display](images_display/photo01.jpeg?raw=true "Display mount")
 

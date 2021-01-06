@@ -13,7 +13,7 @@ To be continued.....
 
 ![Alt MKS port](images_display/MKS_MINI_12864_port.png?raw=true "MKS MINI 12864 port")
 
-
+![Alt SKR ports](images_display/SKR_ports.png?raw=true "SKR 1.4 Turbo ports")
 
 ![Alt Display](images_display/photo01.jpeg?raw=true "Display mount")
 

@@ -15,9 +15,9 @@ To be continued.....
 
 ![Alt SKR ports](images_display/SKR_ports.png?raw=true "SKR 1.4 Turbo ports")
 
-![Alt Display](images_display/photo01.jpeg?raw=true "Display mount")
+![Alt Display](images_display/photo01.jpeg?raw=true "Display test")
 
-![Alt Display](images_display/photo02.jpeg?raw=true "Display test")
+![Alt Display](images_display/photo02.jpeg?raw=true "Display mount")
 
 
 

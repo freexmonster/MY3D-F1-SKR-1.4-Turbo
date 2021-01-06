@@ -12,7 +12,9 @@ In 2 days I will make a complete description of the modification.
 To be continued.....
 
 
+![Alt Display](images_display/photo01.jpg?raw=true "Display mount")
 
+![Alt Display](images_display/photo02.jpg?raw=true "Display test")
 
 
 

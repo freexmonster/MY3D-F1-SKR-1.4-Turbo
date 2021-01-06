@@ -5,9 +5,7 @@ Display MKS_MINI_12864 (this default MY3D F1 display)
 
 Stepper Drivers MC2209
 
-I was able to adapt the native MKS 3d printer display for the skr1.4 turbo. I had to study the pinout of the display and motherboard. And also I managed to rewrite the marlin firmware from skr 1.4 turbo and MY3D F1. I can post a project on github, add a link to the description of the project.
-
-In 2 days I will make a complete description of the modification.
+I was able to adapt the native MKS 3d printer display for the skr1.4 turbo. I had to study the pinout of the display and motherboard. And also I managed to rewrite the marlin firmware from skr 1.4 turbo and MY3D F1. 
 
 To be continued.....
 
